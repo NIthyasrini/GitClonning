@@ -1,5 +1,14 @@
 package org.cts.test;
 
 public class A {
-int a=10;
+	public static void main(String[] args) {
+		System.out.println("Hi");
+	}
+	int a=10;
+
+	
+	
+	
+	
+
 }
